@@ -2,7 +2,7 @@ n = int(input('Digite um número: '))
 
 print(f'### DESAFIO 5 ### Antecessor {n-1} / número digitado "{n}" / {n+1} sucessor!')
 
-print(f'### DESAFIO 6 ### Dobro: {n*2} / Tríplo: {n*3} / Raiz quadrada: {n**0.5}!')
+print(f'### DESAFIO 6 ### Dobro: {n*2} / Tríplo: {n*3} / Raiz quadrada: {n**0.5}!') # POTÊNCIA pow(5,2) = 5²
 
 n1 = int(input('Digite a primeira nota: '))
 n2 = int(input('Digite a segunda nota: '))
